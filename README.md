@@ -1,7 +1,8 @@
 My personal library of [Eagle] parts.
 
 * [ATMEGA328P-AU] : 8-bit microcontroller from Atmel
-* CONNECTORS : Stereo, power, hdmi connectors
+* CONNECTORS : Stereo, power, hdmi, push button switch
+* NRF24L01 : NRF24L01 radio module with SMA connector
 
 [ATMEGA328P-AU]: http://www.atmel.com/devices/atmega328.aspx
 [Eagle]:         https://www.autodesk.fr/products/eagle
