@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -80,14 +80,14 @@
 <wire x1="25.4" y1="2.54" x2="25.4" y2="-3.81" width="0.127" layer="21"/>
 <wire x1="24.13" y1="2.54" x2="24.13" y2="-3.81" width="0.127" layer="21"/>
 <wire x1="22.86" y1="2.54" x2="22.86" y2="-3.81" width="0.127" layer="21"/>
-<pad name="CE" x="-19.05" y="1.27" drill="0.8"/>
-<pad name="GND" x="-19.05" y="3.81" drill="0.8"/>
-<pad name="SCK" x="-19.05" y="-1.27" drill="0.8"/>
-<pad name="MISO" x="-19.05" y="-3.81" drill="0.8"/>
-<pad name="IRQ" x="-16.51" y="-3.81" drill="0.8"/>
-<pad name="MOSI" x="-16.51" y="-1.27" drill="0.8"/>
-<pad name="CSN" x="-16.51" y="1.27" drill="0.8"/>
-<pad name="VCC" x="-16.51" y="3.81" drill="0.8"/>
+<pad name="CE" x="-18.542" y="1.27" drill="0.8"/>
+<pad name="GND" x="-18.542" y="3.81" drill="0.8"/>
+<pad name="SCK" x="-18.542" y="-1.27" drill="0.8"/>
+<pad name="MISO" x="-18.542" y="-3.81" drill="0.8"/>
+<pad name="IRQ" x="-16.002" y="-3.81" drill="0.8"/>
+<pad name="MOSI" x="-16.002" y="-1.27" drill="0.8"/>
+<pad name="CSN" x="-16.002" y="1.27" drill="0.8"/>
+<pad name="VCC" x="-16.002" y="3.81" drill="0.8"/>
 <text x="-3.81" y="3.81" size="1.27" layer="25">&gt;Name</text>
 <text x="-3.81" y="-3.81" size="1.27" layer="27">&gt;Value</text>
 <wire x1="26.67" y1="2.54" x2="26.67" y2="-3.81" width="0.127" layer="21"/>
